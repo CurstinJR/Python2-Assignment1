@@ -6,7 +6,8 @@
 ## Dataset
 [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv)
 
-
+## Jupyter Notebook
+https://github.com/CurstinJR/Python2-Assignment1/blob/master/Main.ipynb
 
 ## Libraries used
  - [Pandas](https://pandas.pydata.org/)
