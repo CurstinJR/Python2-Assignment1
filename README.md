@@ -1,13 +1,7 @@
 ## Python 2 - Assignment 1
 
-
 **Name:** Curstin 
-
 **Surname:** Rose
-
-**Student Number:** 220275408
-
-
 
 ## Dataset
 [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv)
